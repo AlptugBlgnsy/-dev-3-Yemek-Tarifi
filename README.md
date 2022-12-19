@@ -11,7 +11,7 @@ www.patika.dev
 </head>
 <body>
 
-    <!--Navbar Start -->
+    
     <header>
         <nav>
             <h1>SAN SEBASTINA CHEESECAKE</h1>
@@ -26,11 +26,9 @@ www.patika.dev
         </nav>
     </header>
     <hr>
-    <!--Navbar End -->
 
-    <!--Content Start-->
     <section>
-        <!--Article Start-->
+        
         <article>
             <h2>Malzemeler</h2>
             <ul>
@@ -67,8 +65,8 @@ www.patika.dev
                 Your browser does not support the video tag.
               </video>
         </article>
-        <!--Article End-->
+        
     </section>
-    <!--Content End-->
+    
 </body>
 </html>
